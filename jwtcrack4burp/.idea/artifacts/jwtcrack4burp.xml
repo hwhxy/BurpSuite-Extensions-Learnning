@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jwtcrack4burp">
+    <output-path>$PROJECT_DIR$/../../burp插件改进</output-path>
+    <root id="archive" name="jwtcrack4burp.jar">
+      <element id="library" level="project" name="Maven: net.portswigger.burp.extender:burp-extender-api:1.7.22" />
+      <element id="module-output" name="dirmap4burp" />
+    </root>
+  </artifact>
+</component>
